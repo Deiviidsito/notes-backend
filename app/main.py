@@ -15,4 +15,4 @@ app.add_middleware(
 # Endpoint basico de hello-world
 @app.get("/")
 def hello_world():
-    return {"message": "Hello, World!"}
+    return {"message": "Hello, World!"} 
