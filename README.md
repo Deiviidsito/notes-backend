@@ -1,0 +1,1 @@
+Python versio: 3.10
